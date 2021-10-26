@@ -19,5 +19,4 @@
 </ul>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilgourgouillon&layout=compact&theme=dark%22%20width=%22400%22" alt="most used languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyrilgourgouillon&theme=dark&show_icons=true%22%20width=%22450%22" alt="stats"/>
 </p>
