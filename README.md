@@ -1,4 +1,4 @@
-![Hi, welcome to my profile](/hellopage.png)
+![Hi, welcome to my profile](/banner.png)
 
 - 🎓 Ingénieur en Informatique et Système d'Information du CNAM en apprentissage.
 - 🧠 Toujours prêt à acquérir de nouvelles compétences.
