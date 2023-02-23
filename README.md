@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>-->
-<ul>
-  <li>🎓 IT Engineer from CNAM in France.</li>
-  <li>🧠 Always ready to learn new things.</li>
-  <li>🧩 Beatmaker, developer for hobbies.</li>
-</ul>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilgourgouillon&layout=compact&theme=dark%22%20width=%22400%22" alt="most used languages"/>
 </p>
